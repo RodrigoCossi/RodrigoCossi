@@ -4,7 +4,7 @@
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [SecureWipe (Military Grade Disk Sanitizer)](https://github.com/RodrigoCossi/SecureWipe)
+  - [SecureWipe - Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
