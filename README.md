@@ -6,7 +6,7 @@
 - <b>PowerShell</b>
   - [SecureWipe - Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
 - <b>Python</b>
-  - [ARP Sentinel - ARP Poisoning Detector)](https://github.com/RodrigoCossi/ARP-Sentinel)
+  - [ARP Sentinel - ARP Poisoning Detector](https://github.com/RodrigoCossi/ARP-Sentinel)
 
 <h2>🌐 Web App Projects:</h2>
 
