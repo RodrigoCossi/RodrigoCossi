@@ -7,7 +7,7 @@
   - [SecureWipe - Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
   - [ARP Sentinel - ARP Poisoning Detector](https://github.com/RodrigoCossi/ARP-Sentinel)
 - <b>Offensive security</b>
-  - [ARP Sentinel - ARP Poisoning Detector](https://github.com/RodrigoCossi/ARP-Sentinel)
+  - [SwitchKiller - MAC Flooding Script](https://github.com/RodrigoCossi/SwitchKiller)
 
 <h2>🌐 Web App Projects:</h2>
 
