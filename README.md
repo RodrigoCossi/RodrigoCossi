@@ -2,11 +2,14 @@
 <h1>Hi, I'm Rodrigo! <br/><a href="https://github.com/RodrigoCossi">Programmer</a>, <a href="https://www.linkedin.com/in/rodrigo-cossi-867679162/">Cybersecurity Professional</a></h1>
 
 <h2>🔐 Cybersecurity Projects:</h2>
+<b>🛡️ Defensive security</b>
 
-- <b>PowerShell</b>
-  - [SecureWipe - Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
-- <b>Python</b>
-  - [ARP Sentinel - ARP Poisoning Detector](https://github.com/RodrigoCossi/ARP-Sentinel)
+  - <b>PowerShell</b>
+    - [SecureWipe - Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
+  - <b>Python</b>
+    - [ARP Sentinel - ARP Poisoning Detector](https://github.com/RodrigoCossi/ARP-Sentinel)
+
+<b>⚔️ Offensive security</b>
 
 <h2>🌐 Web App Projects:</h2>
 
