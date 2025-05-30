@@ -1,5 +1,6 @@
 <h1>⚠️ Page under construction ⚠️</h1>
-<h1>Hi, I'm Rodrigo! <br/><a href="https://github.com/RodrigoCossi">Programmer</a>, <a href="https://www.linkedin.com/in/rodrigo-cossi-867679162/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Rodrigo! <br/>
+<a href="https://github.com/RodrigoCossi">Programmer</a>, <a href="https://www.linkedin.com/in/rodrigo-cossi-867679162/">Cybersecurity Professional</a></h1>
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
