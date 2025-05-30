@@ -12,7 +12,7 @@
 
 <h2>🌐 Web App Projects:</h2>
 
-- <b>JavaScript and Machine Learning Components</b>
+- <b>Machine Learning</b>
   - [FaceID - Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
 
 
