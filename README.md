@@ -5,18 +5,18 @@
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>Defensive security</b>
-  - [SecureWipe - Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
+  - [Secure Wipe - Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
   - [ARP Sentinel - ARP Poisoning Detector](https://github.com/RodrigoCossi/ARP-Sentinel)
 - <b>Offensive security</b>
-  - [SwitchKiller - Hybrid MAC Flooding Tool](https://github.com/RodrigoCossi/SwitchKiller)
-  - [ARP-Spoofer](https://github.com/RodrigoCossi/ARP-Spoofer)
+  - [Switch Killer - Hybrid MAC Flooding Tool](https://github.com/RodrigoCossi/SwitchKiller)
+  - [ARP Spoofer - Manipulating ARP caches to intercept traffic on a local network](https://github.com/RodrigoCossi/ARP-Spoofer)
 
 <h2>🌐 Web & 🖥️ Desktop App Projects:</h2>
 
 - <b>Machine Learning</b>
   - [FaceID - Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
 - <b>Utilities</b>
-  - [JiggleBot - Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/FaceID)
+  - [Jiggle Bot - Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/FaceID)
 
 
 
