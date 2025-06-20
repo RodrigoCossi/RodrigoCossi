@@ -11,14 +11,17 @@
   - [SwitchKiller - Hybrid MAC Flooding Tool](https://github.com/RodrigoCossi/SwitchKiller)
   - [ARP-Spoofer](https://github.com/RodrigoCossi/ARP-Spoofer)
 
-<h2>🌐 Web App Projects:</h2>
+<h2>🌐 Web & 🖥️ Desktop App Projects:</h2>
 
 - <b>Machine Learning</b>
   - [FaceID - Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
+- <b>Utilities</b>
+  - [JiggleBot - Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/FaceID)
 
 
 
 
+<!--
 <h2> 📜 Certificates:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -34,4 +37,4 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-
+-->
