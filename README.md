@@ -7,21 +7,21 @@
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>Defensive security</b>
-  - [Secure Wipe - Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
-  - [ARP Sentinel - ARP Poisoning Detector](https://github.com/RodrigoCossi/ARP-Sentinel)
-  - [RDP Radar - Geotracking RDP attack attempts with Azure Sentinel (WIP)](https://github.com/RodrigoCossi/RDP-Radar)
+  - [<!-- Secure Wipe - -->Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
+  - [<!--ARP Sentinel - -->ARP Poisoning Detector](https://github.com/RodrigoCossi/ARP-Sentinel)
+  - [<!--RDP Radar - -->Geotracking RDP attack attempts with Azure Sentinel (WIP)](https://github.com/RodrigoCossi/RDP-Radar)
 - <b>Offensive security</b>
-  - [Switch Killer - Hybrid MAC Flooding Tool](https://github.com/RodrigoCossi/SwitchKiller)
-  - [ARP Spoofer - Manipulating ARP caches to intercept traffic on a local network](https://github.com/RodrigoCossi/ARP-Spoofer)
-  - [Key Hook - Exploiting DLL injections for Keylogging (WIP)](https://github.com/RodrigoCossi/KeyHook)
+  - [<!--Switch Killer - -->Hybrid MAC Flooding Tool](https://github.com/RodrigoCossi/SwitchKiller)
+  - [<!--ARP Spoofer - -->Manipulating ARP caches to intercept traffic on a local network](https://github.com/RodrigoCossi/ARP-Spoofer)
+  - [<!--Key Hook - -->Exploiting DLL injections for Keylogging (WIP)](https://github.com/RodrigoCossi/KeyHook)
 
 <h2>🌐 Web & 🖥️ Desktop App Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [FaceID - Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
+  - [<!--FaceID - -->Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
 - <b>Utilities</b>
-  - [Jiggle Bot - Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
-  - [JWT Authentication API](https://github.com/RodrigoCossi/JWT_Auth)
+  - [<!--Jiggle Bot - -->Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
+  - [<!--JWT_Auth - -->JWT Authentication API](https://github.com/RodrigoCossi/JWT_Auth)
 
 
 
