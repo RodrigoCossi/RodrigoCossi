@@ -21,6 +21,7 @@
   - [FaceID - Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
 - <b>Utilities</b>
   - [Jiggle Bot - Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
+  - [JWT Authentication API](https://github.com/RodrigoCossi/JWT_Auth)
 
 
 
