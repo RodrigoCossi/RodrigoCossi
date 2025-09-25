@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/rodrigo-cossi-867679162/">Programmer</a>, <a href="https://www.certifiedcyberprofessional.com/team-4">Cybersecurity Professional</a>
 </h1>
 
+<!-- <h3>I'm a versatile Full-Stack developer, specialized in Cybersecurity and Ethica Hacking. Here you can find some of my hobby projects.</h3> -->
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
