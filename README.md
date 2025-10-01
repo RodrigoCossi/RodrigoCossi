@@ -23,6 +23,7 @@
 - <b>Utilities</b>
   - [<!--Jiggle Bot - -->Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
   - [<!--JWT_Auth - -->JWT Authentication API](https://github.com/RodrigoCossi/JWT_Auth)
+  - [<!--NetworkScanner - -->Network Diagnostics Tool](https://github.com/RodrigoCossi/NetworkScanner)
 
 
 
