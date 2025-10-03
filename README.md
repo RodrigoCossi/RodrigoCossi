@@ -24,6 +24,7 @@
   - [<!--NetworkScanner - -->Network Diagnostics Tool](https://github.com/RodrigoCossi/NetworkScanner)
   - [<!--Jiggle Bot - -->Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
   - [<!--JWT_Auth - -->JWT Authentication API](https://github.com/RodrigoCossi/JWT_Auth)
+  - [<!--Cryptography - -->Cryptography Interactive Tools](https://github.com/RodrigoCossi/Cryptography)
 
 
 
