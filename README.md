@@ -15,7 +15,7 @@
   - [<!--Switch Killer - -->Hybrid MAC Flooding Tool](https://github.com/RodrigoCossi/SwitchKiller)
   - [<!--ARP Spoofer - -->Manipulating ARP caches to intercept traffic on a local network](https://github.com/RodrigoCossi/ARP-Spoofer)
   - [<!--Key Hook - -->Exploiting DLL injections for Keylogging (WIP)](https://github.com/RodrigoCossi/KeyHook)
-  - [<!--Ransomware - -->Ransomware (proof of concept)](https://github.com/RodrigoCossi/Ransomware)
+  - [<!--Ransomware - -->Ransomware - Proof of Concept](https://github.com/RodrigoCossi/Ransomware)
 
 <h2>🌐 Web & 🖥️ Desktop App Projects:</h2>
 
