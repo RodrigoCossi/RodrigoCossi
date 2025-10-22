@@ -3,7 +3,7 @@
 <!-- <a href="https://www.linkedin.com/in/rodrigo-cossi-867679162/">Programmer</a>, <a href="https://www.certifiedcyberprofessional.com/team-4">Cybersecurity Professional</a> -->
 </h1>
 
-<h3>I'm a versatile Full-Stack developer with a passion for Cybersecurity. Here you can find some of my hobby projects.</h3>
+<h3>I'm a versatile Full Stack Developer with a passion for Cybersecurity. Here you can find some of my hobby projects.</h3>
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
@@ -14,7 +14,7 @@
 - <b>Offensive security</b>
   - [<!--Switch Killer - -->Hybrid MAC Flooding Tool](https://github.com/RodrigoCossi/SwitchKiller)
   - [<!--ARP Spoofer - -->Manipulating ARP caches to intercept traffic on a local network](https://github.com/RodrigoCossi/ARP-Spoofer)
-  - [<!--Key Hook - -->Exploiting DLL injections for Keylogging (WIP)](https://github.com/RodrigoCossi/KeyHook)
+  - [<!--Key Hook - -->Exploiting DLL injections for Keylogging](https://github.com/RodrigoCossi/KeyHook)
   - [<!--Ransomware - -->Ransomware - Proof of Concept](https://github.com/RodrigoCossi/Ransomware)
 
 <h2>🌐 Web & 🖥️ Desktop App Projects:</h2>
