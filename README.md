@@ -27,9 +27,9 @@
   - [<!--JWT_Auth - -->JWT Authentication API](https://github.com/RodrigoCossi/JWT_Auth)
   - [<!--Cryptography - -->Cryptography Interactive Tools](https://github.com/RodrigoCossi/Cryptography)
 
-</br>
+<!-- </br>
 <h2>What Copilot says about me:</h2>
-<img width="909" height="602" alt="image" src="https://github.com/user-attachments/assets/d9f19024-a3a9-4d76-bbe1-008e7bb6ea54" />
+<img width="909" height="602" alt="image" src="https://github.com/user-attachments/assets/d9f19024-a3a9-4d76-bbe1-008e7bb6ea54" /> -->
 
 
 <!--
