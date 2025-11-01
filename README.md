@@ -26,8 +26,6 @@
   - [<!--Jiggle Bot - -->Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
   - [<!--JWT_Auth - -->JWT Authentication API](https://github.com/RodrigoCossi/JWT_Auth)
   - [<!--Cryptography - -->Cryptography Interactive Tools](https://github.com/RodrigoCossi/Cryptography)
- 
-    
   <!-- [VPN (WireGuard on Docker - WIP)](https://github.com/RodrigoCossi/DockerVPN) -->
   <!-- [Onion over VPN](https://github.com/RodrigoCossi/OnionVPN) -->
     
