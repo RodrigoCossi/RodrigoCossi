@@ -23,16 +23,13 @@ This clone recreates the core gameplay experience using modern web technologies:
 
 ### Controls
 
-- **Mouse Click**: Rotate individual tiles
-- **Mouse Drag**: Rotate the camera view around the board
-- **Mouse Wheel**: Zoom in and out
-- **Arrow Keys**: Alternative navigation (future feature)
+- **Mouse Click**: Rotate individual tiles 90 degrees
 
 ## 🎯 Game Mechanics
 
 ### Tile System
-- 6x6 grid of colored cubes
-- Each cube has 6 faces with different colors
+- 6x6 grid of diamond-shaped tiles
+- Each tile has 4 colored triangular faces (top, right, bottom, left)
 - 6 possible colors: Red, Green, Blue, Yellow, Magenta, Cyan
 
 ### Matching Logic
@@ -104,14 +101,14 @@ this.gridSize = 8; // Change from 6x6 to 8x8
 ### Add More Colors
 ```javascript
 this.colors = [
-    0xff0000, // Red
-    0x00ff00, // Green
-    0x0000ff, // Blue
-    0xffff00, // Yellow
-    0xff00ff, // Magenta
-    0x00ffff, // Cyan
-    0xffa500, // Orange - Add new color
-    0x800080  // Purple - Add new color
+    '#FF0000', // Red
+    '#00FF00', // Green
+    '#0000FF', // Blue
+    '#FFFF00', // Yellow
+    '#FF00FF', // Magenta
+    '#00FFFF', // Cyan
+    '#FFA500', // Orange - Add new color
+    '#800080'  // Purple - Add new color
 ];
 ```
 
@@ -131,7 +128,7 @@ this.affirmations = [
 
 ## 🌐 Browser Compatibility
 
-Endorfun works best in modern browsers with WebGL support:
+Endorfun works in all modern browsers with HTML5 Canvas support:
 - ✅ Chrome 90+
 - ✅ Firefox 88+
 - ✅ Safari 14+

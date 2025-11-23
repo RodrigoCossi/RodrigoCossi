@@ -349,7 +349,7 @@ class EndorfunGame {
 }
 
 // Initialize game when page loads
-let game;
+window.game = null;
 window.addEventListener('DOMContentLoaded', () => {
-    game = new EndorfunGame();
+    window.game = new EndorfunGame();
 });
