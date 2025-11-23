@@ -19,6 +19,8 @@
 
 <h2>🌐 Web & 🖥️ Desktop App Projects:</h2>
 
+- <b>Games</b>
+  - [<!--Endorfun - -->Classic Puzzle Game Clone (Canvas 2D)](https://github.com/RodrigoCossi/RodrigoCossi/tree/main/Endorfun)
 - <b>Machine Learning</b>
   - [<!--FaceID - -->Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
 - <b>Utilities</b>

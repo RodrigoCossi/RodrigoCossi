@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endorfun - Classic Puzzle Game Clone</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            overflow: hidden;
+            color: white;
+        }
+
+        #game-container {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            position: relative;
+        }
+
+        #canvas-container {
+            flex: 1;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #game-canvas {
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+        }
+
+        #info-panel {
+            width: 300px;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            overflow-y: auto;
+        }
+
+        h1 {
+            font-size: 2em;
+            text-align: center;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .score-display {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .score-display h2 {
+            font-size: 1.2em;
+            margin-bottom: 5px;
+        }
+
+        .score-display .value {
+            font-size: 2em;
+            font-weight: bold;
+            color: #ffd700;
+        }
+
+        .controls {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        .controls h3 {
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+
+        .controls p {
+            margin: 5px 0;
+            font-size: 0.9em;
+            line-height: 1.6;
+        }
+
+        button {
+            width: 100%;
+            padding: 15px;
+            font-size: 1.1em;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        .affirmation {
+            background: rgba(255, 215, 0, 0.2);
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+            font-style: italic;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 2px solid rgba(255, 215, 0, 0.3);
+            transition: opacity 0.5s;
+        }
+
+        .affirmation-text {
+            font-size: 1em;
+            line-height: 1.4;
+        }
+
+        .game-info {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 0.9em;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 768px) {
+            #game-container {
+                flex-direction: column;
+            }
+            
+            #info-panel {
+                width: 100%;
+                height: auto;
+                max-height: 40vh;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <div id="canvas-container">
+            <canvas id="game-canvas"></canvas>
+        </div>
+        <div id="info-panel">
+            <h1>ENDORFUN</h1>
+            
+            <div class="score-display">
+                <h2>Score</h2>
+                <div class="value" id="score">0</div>
+            </div>
+
+            <div class="score-display">
+                <h2>Matches</h2>
+                <div class="value" id="matches">0</div>
+            </div>
+
+            <div class="affirmation">
+                <div class="affirmation-text" id="affirmation">
+                    You are capable of amazing things!
+                </div>
+            </div>
+
+            <button onclick="game.newGame()">New Game</button>
+
+            <div class="controls">
+                <h3>Controls</h3>
+                <p><strong>Click:</strong> Rotate tiles</p>
+                <p><strong>Goal:</strong> Match 3+ adjacent colors</p>
+            </div>
+
+            <div class="game-info">
+                <strong>How to Play:</strong><br>
+                Click on tiles to rotate them and match colors on adjacent faces. 
+                When 3 or more tiles of the same color connect, they clear and you score points!
+                Enjoy positive affirmations as you play.
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="game.js"></script>
+</body>
+</html>
