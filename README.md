@@ -11,6 +11,7 @@
   - [<!-- Secure Wipe - -->Military Grade Disk Sanitizer](https://github.com/RodrigoCossi/SecureWipe)
   - [<!--ARP Sentinel - -->ARP Poisoning Detector](https://github.com/RodrigoCossi/ARP-Sentinel)
   - [<!--RDP Radar - -->Geotracking RDP attack attempts with Azure Sentinel](https://github.com/RodrigoCossi/RDP-SIEM)
+  - [<!--RDP Radar - -->Distributed Vulnerability Scanner (WIP)](https://github.com/RodrigoCossi/Distributed-Vulnerability-Scanner)
 - <b>Offensive security</b>
   - [<!--Switch Killer - -->Hybrid MAC Flooding Tool](https://github.com/RodrigoCossi/SwitchKiller)
   - [<!--ARP Spoofer - -->Manipulating ARP caches to intercept traffic on a local network](https://github.com/RodrigoCossi/ARP-Spoofer)
