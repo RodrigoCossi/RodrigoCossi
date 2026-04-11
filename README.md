@@ -21,8 +21,9 @@
 
 <h2>🌐 Web & 🖥️ Desktop App Projects:</h2>
 
-- <b>Machine Learning</b>
+- <b>Machine Learning & AI</b>
   - [<!--FaceID - -->Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
+  - [<!--FaceID - -->Agentic Cyberthreat Incident Management System](https://github.com/RodrigoCossi/ACIMS)
 - <b>Utilities</b>
   - [<!--NetworkScanner - -->Network Diagnostics Tool](https://github.com/RodrigoCossi/NetworkScanner)
   - [<!--Jiggle Bot - -->Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
