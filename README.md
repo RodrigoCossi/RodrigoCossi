@@ -23,7 +23,7 @@
 
 - <b>Machine Learning & AI</b>
   - [<!--FaceID - -->Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
-  - [<!--FaceID - -->Cyber Threat Narrative Builder](https://github.com/RodrigoCossi/CTNB)
+  - [<!--FaceID - -->Cyber Threat Narrative Builder](https://github.com/RodrigoCossi/Narrative-Builder)
 - <b>Utilities</b>
   - [<!--NetworkScanner - -->Network Diagnostics Tool](https://github.com/RodrigoCossi/NetworkScanner)
   - [<!--Jiggle Bot - -->Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
