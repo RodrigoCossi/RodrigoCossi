@@ -3,8 +3,8 @@
 <!-- <a href="https://www.linkedin.com/in/rodrigo-cossi-867679162/">Programmer</a>, <a href="https://www.certifiedcyberprofessional.com/team-4">Cybersecurity Professional</a> -->
 </h1>
 
-<!-- <h3>I'm a versatile Full Stack Software Engineer, AI Consultant and a certified Cybersecurity Analyst. Here you can find some of my hobby projects.</h3> -->
-<h3>Full Stack Engineer, AI Consultant, and Certified Cybersecurity Analyst. I build secure, intelligent systems and experiment with AI‑driven automation. This repo is where I share my side projects, prototypes, and ideas.</h3>
+<!-- <h3>I'm a versatile Full Stack Software Engineer, AI Consultant and a certified Cybersecurity professional. Here you can find some of my hobby projects.</h3> -->
+<h3>Full Stack Engineer, AI Consultant, and Certified Cybersecurity Professional. I build secure, intelligent systems and experiment with AI‑driven automation. This repo is where I share my side projects, prototypes, and ideas.</h3>
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
