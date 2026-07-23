@@ -18,6 +18,7 @@
   - [<!--ARP Spoofer - -->Manipulating ARP caches to intercept traffic on a local network](https://github.com/RodrigoCossi/ARP-Spoofer)
   - [<!--Key Hook - -->Exploiting DLL injections for Keylogging](https://github.com/RodrigoCossi/KeyHook)
   - [<!--Ransomware - -->Ransomware - Proof of Concept](https://github.com/RodrigoCossi/Ransomware)
+  - [<!--Ransomware - -->Dark Sword exploit](https://github.com/RodrigoCossi/DarkSword-RCE)
    <!-- - [DDoS Botnet](https://github.com/RodrigoCossi/DDoS-Botnet) -->
 
 <h2>🌐 Web & 🖥️ Desktop App Projects:</h2>
