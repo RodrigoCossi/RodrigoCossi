@@ -25,6 +25,7 @@
 - <b>Machine Learning & AI</b>
   - [<!--FaceID - -->Facial Detection and Identification](https://github.com/RodrigoCossi/FaceID)
   - [<!--FaceID - -->Cyber Incident Manager](https://github.com/RodrigoCossi/cyber-incident-manager)
+  - [<!--FaceID - -->Telegram voice auth middleware (coming soon)](https://github.com/RodrigoCossi/)
 - <b>Utilities</b>
   - [<!--NetworkScanner - -->Network Diagnostics Tool](https://github.com/RodrigoCossi/NetworkScanner)
   - [<!--Jiggle Bot - -->Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
