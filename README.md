@@ -28,6 +28,7 @@
   - [<!--FaceID - -->Cyber Incident Manager](https://github.com/RodrigoCossi/cyber-incident-manager)
   - [<!--FaceID - -->Telegram voice auth middleware](https://github.com/RodrigoCossi/VoiceAuth)
   - [Vox Flow (for Linux)](https://github.com/RodrigoCossi/VoxFlow4Linux)
+  - [Claude Session Graph](https://github.com/RodrigoCossi/claude-code-session-tree)
 - <b>Utilities</b>
   - [<!--NetworkScanner - -->Network Diagnostics Tool](https://github.com/RodrigoCossi/NetworkScanner)
   - [<!--Jiggle Bot - -->Programmatic Mouse Jiggler](https://github.com/RodrigoCossi/JiggleBot)
