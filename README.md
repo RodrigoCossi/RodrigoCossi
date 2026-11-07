@@ -35,8 +35,9 @@
   - [<!--JWT_Auth - -->JWT Authentication API](https://github.com/RodrigoCossi/JWT_Auth)
   - [<!--Cryptography - -->Cryptography Interactive Tools](https://github.com/RodrigoCossi/Cryptography)
   - [Media Grab](https://github.com/RodrigoCossi/MediaGrab)
+- <b>Networks</b>
   <!-- [VPN (WireGuard on Docker - WIP)](https://github.com/RodrigoCossi/DockerVPN) -->
-  <!-- [Onion over VPN](https://github.com/RodrigoCossi/OnionVPN) -->
+  - [Onion over VPN](https://github.com/RodrigoCossi/OnionOverVPN)
     
 <!-- </br>
 <h2>What Copilot says about me:</h2>
